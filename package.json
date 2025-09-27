@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@progress/kendo-react-buttons": "^12.0.2",
+    "@progress/kendo-react-common": "^12.0.2",
+    "@progress/kendo-react-dialogs": "^12.0.2",
+    "@progress/kendo-react-dropdowns": "^12.0.2",
+    "@progress/kendo-react-inputs": "^12.0.2",
+    "@progress/kendo-react-layout": "^12.0.2",
+    "@progress/kendo-react-notification": "^12.0.2",
+    "@progress/kendo-theme-default": "^12.0.1",
+    "next": "15.5.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
